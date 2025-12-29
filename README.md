@@ -17,7 +17,7 @@ A production-ready detector
 A startup or product  
 A benchmark leaderboard entry   
 A claim of robustness or generalization
-<br><br>## Repository Structure
+<br><br>Repository Structure
 
 ```text
 project-veritas/
