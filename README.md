@@ -9,7 +9,7 @@ Rather than proposing a new detection model, this project treats a standard deep
 What this project IS:  
 A controlled experimental study  
 A reproducible analysis framework  
-A failure-mode investigation  
+A failure mode investigation  
 A research-style technical report  
 
 What this project is NOT:  
