@@ -13,7 +13,7 @@ A failure mode investigation
 A research style technical report  
 
 What this project is NOT:  
-A production-ready detector  
+A production ready detector  
 A startup or product  
 A benchmark leaderboard entry   
 A claim of robustness or generalization
