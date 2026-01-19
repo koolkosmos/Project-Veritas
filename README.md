@@ -10,7 +10,7 @@ What this project IS:
 A controlled experimental study  
 A reproducible analysis framework  
 A failure mode investigation  
-A research-style technical report  
+A research style technical report  
 
 What this project is NOT:  
 A production-ready detector  
